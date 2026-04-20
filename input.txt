@@ -1,0 +1,2 @@
+LUCENE-12, LUCENE-17, LUCENE-701, LUCENE-1200, LUCENE-1799
+https://github.com/apache/lucene
